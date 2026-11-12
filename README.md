@@ -6,6 +6,7 @@ Contains the leetcode solutions to track my daily progress.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yashbahadure18/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/yashbahadure18/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/yashbahadure18/Leetcode/tree/master/0344-reverse-string) |
 ## String
@@ -34,4 +35,8 @@ Contains the leetcode solutions to track my daily progress.
 |  |
 | ------- |
 | [1796-second-largest-digit-in-a-string](https://github.com/yashbahadure18/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yashbahadure18/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
